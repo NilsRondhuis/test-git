@@ -6,3 +6,5 @@ git rm --chached [file] перестать следить
 git commit -m (сообщение) "название комита" - создать коммит
 git branch посмотреть текущую ветку
 git branch [name] создать ветку
+git branch -D [name] удалить ветку
+git checkout [name] переключится на ветку
