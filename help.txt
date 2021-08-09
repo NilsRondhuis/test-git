@@ -11,4 +11,6 @@ git checkout [name] переключится на ветку
 git checkout -b [name] создаю новую ветку и сразу хочу на нее переключится
 git merge совместить с веткой
 git config --global user.name узнать на каком юзере работаешь
-
+git push залить на гитхаб
+git clone [link] склонировать реп
+git pull забрать все последние изминения
