@@ -1,0 +1,14 @@
+﻿git init инициализация репозитория, создается системная папка .git
+git status выяснение статуса
+git add [file] поставить файл на слежку 
+git add . добавит все файлы
+git rm --chached [file] перестать следить
+git commit -m (сообщение) "название комита" - создать коммит
+git branch посмотреть текущую ветку
+git branch [name] создать ветку
+git branch -D [name] удалить ветку
+git checkout [name] переключится на ветку
+git checkout -b [name] создаю новую ветку и сразу хочу на нее переключится
+git merge совместить с веткой
+git config --global user.name узнать на каком юзере работаешь
+
