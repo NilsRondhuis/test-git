@@ -14,3 +14,4 @@ git config --global user.name узнать на каком юзере работ
 git push залить на гитхаб
 git clone [link] склонировать реп
 git pull забрать все последние изминения
+git clone http://whatever.git -b branch-name склонировать нужную ветку
