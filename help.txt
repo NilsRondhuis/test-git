@@ -15,3 +15,4 @@ git push залить на гитхаб
 git clone [link] склонировать реп
 git pull забрать все последние изминения
 git clone http://whatever.git -b branch-name склонировать нужную ветку
+git diff [filename] посмотреть изминения в файле
